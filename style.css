@@ -1,0 +1,100 @@
+header {
+    background-color: #2e8b57;
+    text-align: center;
+    padding: 25px;
+}x
+body {
+    background-color: #f4ffe5;
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+
+h1 {
+ color: #1b4d3e;
+ font-size: 38px;
+}
+
+footer {
+    background-color: #2e8b57;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: 16px;
+}
+
+h2 {
+    color: #2e8b57;
+    font-size: 26px;
+}
+
+table {
+    border: 1px solid #2e8b57;
+    background-color: white;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+p img {
+    border: 2px solid #1b4d3e
+}
+
+header a {
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    background-color: #3cb371;
+    margin: 5px;
+}
+
+td {
+    border: 1px solid #2e8b57;
+    padding: 10px;
+    font-size: 16px;
+}
+
+main {
+    padding: 15px;
+    text-align: center;
+}
+
+main p {
+    font-size: 18px;
+}
+
+form {
+    background-color: white;
+    border: 2px solid #2e8b57;
+    width: 550px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+input {
+    font-size: 16px;
+    padding: 5px;
+}
+
+.lada {
+    background-color: #d4edda;
+    border: 2px solid #2e8b57;
+    border-radius: 10px;
+    padding: 15px;
+    width: 550px;
+    margin: 15px auto;
+}
+
+.button {
+    background-color: #2e8b57;
+    color: white;
+    border-radius: 15px;
+    padding: 8px;
+    font-size: 16px;
+}
